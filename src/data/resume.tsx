@@ -8,7 +8,7 @@ export const DATA = {
   location: "India",
   locationLink: "https://www.google.com/maps/place/india",
   description: (
-      "23, Software Engineer."
+      "23, Product/dev."
   ),
   summary:
     "I don’t write code, I weaponize it. 23, restless, and allergic to mediocrity. If it doesn’t push limits, I’m not building it.",
@@ -35,14 +35,14 @@ export const DATA = {
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://github.com/anujkatre",
+        url: "https://github.com/anujkatre111",
         icon: Icons.github,
 
         navbar: true,
       },
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://linkedin.com/in/anujkatre",
+        url: "https://www.linkedin.com/in/anuj-katre-b01376382/",
         icon: Icons.linkedin,
 
         navbar: true,
@@ -56,7 +56,7 @@ export const DATA = {
       },
       Youtube: {
         name: "Youtube",
-        url: "https://youtube.com/@anujkatre",
+        url: "https://www.youtube.com/@Anujkatre08",
         icon: Icons.youtube,
         navbar: true,
       },
@@ -110,12 +110,12 @@ export const DATA = {
   ],
   education: [
     {
-      school: "Medicaps University",
+      school: "Medicaps University - CGPA : 9.1",
       href: "https://www.medicaps.ac.in/",
       degree: "Bachelor's Degree in Computer Science and Business Systems",
       logoUrl: "/Medicaps.jpg",
-      start: "2019",
-      end: "2023",
+      start: "2020",
+      end: "2024",
     },
     {
       school: "St.Pauls Higher Secondary School",
