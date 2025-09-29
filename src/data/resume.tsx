@@ -81,7 +81,7 @@ export const DATA = {
       start: "June 2023",
       end: "Present",
       description:
-        "Developed and maintained multiple web applications using React, Node.js, and PostgreSQL. Implemented RESTful APIs and microservices architecture. Collaborated with cross-functional teams to deliver high-quality software solutions. Optimized application performance and improved user experience.",
+        "Built and maintained responsive web applications using React, Node.js, and PostgreSQL. Delivered high-quality solutions to clients, optimized performance, and ensured smooth user experiences.",
     },
     {
       company: "Buildnow",
@@ -93,19 +93,19 @@ export const DATA = {
       start: "January 2023",
       end: "May 2023",
       description:
-        "Built responsive user interfaces using React and TypeScript. Implemented state management with Redux and integrated with backend APIs. Worked on improving application accessibility and performance. Collaborated with designers to implement pixel-perfect designs.",
+        "Designed intuitive and visually appealing interfaces. Collaborated with developers to implement pixel-perfect designs and improved usability across web platforms.",
     },
     {
-      company: "Yash Technologies",
+      company: "Kiwify",
       href: "https://digitalinnovations.com/",
       badges: [],
       location: "Mumbai, India",
       title: "Software Engineer Intern",
-      logoUrl: "/yashTech.png",
+      logoUrl: "https://bookface-images.s3.amazonaws.com/small_logos/e83582d0b32eab86c10b29e18381c37106d89179.png",
       start: "May 2022",
       end: "August 2022",
       description:
-        "Developed a customer management system using React and Node.js. Implemented authentication and authorization features. Created RESTful APIs and integrated with MongoDB database. Participated in code reviews and agile development processes.",
+        " Developed features and RESTful APIs using React and Node.js. Worked with MongoDB, implemented authentication, and participated in agile development and code reviews.",
     },
   ],
   education: [
@@ -128,30 +128,27 @@ export const DATA = {
   ],
   projects: [
     {
-      title: "E-Commerce Platform",
-      href: "https://github.com/anujkatre/ecommerce-platform",
+      title: "Food-Delivery-Platform",
+      href: "https://github.com/anujkatre111/Food_Delivery_app",
       dates: "Dec 2023 - Jan 2024",
       active: true,
       description:
-        "Built a full-stack e-commerce platform with user authentication, product management, shopping cart functionality, and payment integration using Stripe. Features include responsive design, real-time inventory tracking, and admin dashboard.",
+        "Built a modern food delivery web application using React and TailwindCSS, ensuring responsive and intuitive UI. Implemented core features like product browsing, cart management, and secure checkout. Wrote unit tests with Jest to maintain reliability and code quality.",
       technologies: [
         "React",
-        "Node.js",
-        "Express.js",
-        "MongoDB",
-        "Stripe",
-        "JWT",
         "TailwindCSS",
+        "Redux",
+        "jest",
       ],
       links: [
         {
           type: "Source",
-          href: "https://github.com/anujkatre/ecommerce-platform",
+          href: "https://github.com/anujkatre111/Food_Delivery_app",
           icon: <Icons.github className="size-3" />,
         },
         {
           type: "Demo",
-          href: "https://ecommerce-demo.vercel.app",
+          href: "https://nr-phi.vercel.app/",
           icon: <Icons.globe className="size-3" />,
         },
       ],
@@ -160,11 +157,11 @@ export const DATA = {
     },
     {
       title: "Task Management App",
-      href: "https://github.com/anujkatre/task-manager",
+      href: "https://github.com/anujkatre111/Task-Manager",
       dates: "Oct 2023 - Nov 2023",
       active: true,
       description:
-        "Developed a task management web app using React and TailwindCSS with Supabase as the backend. Implemented user authentication, real-time database updates, and role-based task assignments. Features include team collaboration, drag-and-drop task organization, and progress tracking.",
+        "Developed a collaborative task management app with React, TailwindCSS, and Supabase. Implemented real-time updates, drag-and-drop task organization, and role-based assignments. Ensured code reliability with Jest testing.",
       technologies: [
         "React.js",
         "TypeScript",
@@ -174,7 +171,7 @@ export const DATA = {
       links: [
         {
           type: "Source",
-          href: "https://github.com/anujkatre/task-manager",
+          href: "https://github.com/anujkatre111/Task-Manager",
           icon: <Icons.github className="size-3" />,
         },
         {
@@ -186,65 +183,7 @@ export const DATA = {
       image: "",
       video: "",
     },
-    {
-      title: "Weather Dashboard",
-      href: "https://github.com/anujkatre/weather-dashboard",
-      dates: "Aug 2023 - Sep 2023",
-      active: true,
-      description:
-        "Created a weather dashboard that displays current weather conditions and forecasts for multiple cities. Features include location-based weather, 7-day forecast, and weather alerts. Integrated with OpenWeatherMap API.",
-      technologies: [
-        "React",
-        "TypeScript",
-        "OpenWeatherMap API",
-        "Chart.js",
-        "CSS3",
-        "Vite",
-      ],
-      links: [
-        {
-          type: "Source",
-          href: "https://github.com/anujkatre/weather-dashboard",
-          icon: <Icons.github className="size-3" />,
-        },
-        {
-          type: "Demo",
-          href: "https://weather-dashboard-demo.vercel.app",
-          icon: <Icons.globe className="size-3" />,
-        },
-      ],
-      image: "",
-      video: "",
-    },
-    {
-      title: "Portfolio Website",
-      href: "https://github.com/anujkatre/portfolio",
-      dates: "Jun 2023 - Jul 2023",
-      active: true,
-      description:
-        "Designed and developed a personal portfolio website showcasing projects, skills, and experience. Features include dark/light mode, responsive design, and smooth animations.",
-      technologies: [
-        "Next.js",
-        "TypeScript",
-        "TailwindCSS",
-        "Framer Motion",
-        "Vercel",
-      ],
-      links: [
-        {
-          type: "Source",
-          href: "https://github.com/anujkatre/portfolio",
-          icon: <Icons.github className="size-3" />,
-        },
-        {
-          type: "Website",
-          href: "https://anujkatre.dev",
-          icon: <Icons.globe className="size-3" />,
-        },
-      ],
-      image: "",
-      video: "",
-    },
+    
   ],
   hackathons: [
     {
